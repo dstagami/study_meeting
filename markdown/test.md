@@ -56,11 +56,11 @@ ___
 
 
 ............ 画像 ............　　
-![名刺工房ロゴ画像](https://meishi.artisj.com/common/image/header-logo001.gif "アーティス名刺工房")
+![名刺工房ロゴ画像](https://meishi.artisj.com/common/image/header-logo001.gif "アーティス名刺工房")　　
 
 
 ............ ソースコード ............　　
-`var moge = 100;`
+`var moge = 100;`　　
 
     var fuga = 1000;
     var fizz = 2000;
